@@ -1,3 +1,5 @@
+# Pseudo-code Script addUsers.sh
+
 DEBUT
   SI aucun argument fourni
     Afficher "il manque les noms utilisateurs en argument - Fin du script"
